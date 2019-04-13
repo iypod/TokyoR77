@@ -38,3 +38,7 @@ https://tokyor.connpass.com/event/125793/
 ## 初心者2-1：Rにおけるバージョン管理とプロジェクト運用 @u_ribo
 
 - gitとdockerの話
+
+## 初心者2-2：R Markdownを使った再現的レポーティング @niszet
+
+- rmarkdownパッケージの話
