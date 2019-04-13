@@ -34,3 +34,7 @@ https://tokyor.connpass.com/event/125793/
 ## 初心者セッション1-1：RStudioでRを始めよう @aad34210
 
 - Rを便利に使える、RStudioというソフトの話
+
+## 初心者2-1：Rにおけるバージョン管理とプロジェクト運用 @u_ribo
+
+- gitとdockerの話
